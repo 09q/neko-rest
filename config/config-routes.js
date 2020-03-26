@@ -1,6 +1,6 @@
 const express = require('express'),
       client = require('nekos.life'),
-	  consign = require('consign')
+      consign = require('consign')
 
 module.exports = function() {
 	let app = express()
